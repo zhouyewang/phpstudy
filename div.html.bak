@@ -1,0 +1,10 @@
+<style>
+	body{Text-align:center; Margin:0; Padding:0;}
+	#box{Width:960px; Margin:0 auto;}
+	.small{Width:320px; Float:left;}
+</style>
+<div id='box'>
+	<div class='small'>11111</div>
+	<div class='small'>11111</div>
+	<div class='small'>11111</div>
+</div>
